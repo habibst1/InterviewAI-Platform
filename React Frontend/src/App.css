@@ -1,0 +1,7 @@
+/* src/App.css - keep minimal */
+.app-loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

@@ -6,6 +6,7 @@
 
 ## 🎥 Demo
 
+https://github.com/user-attachments/assets/93805eda-f69b-47f5-93c3-dfb93e1c7f0b
 
 ---
 

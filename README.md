@@ -1,6 +1,6 @@
 # 🎤 InterviewAI
 
-**InterviewAI** is an AI-powered, voice-interactive interview platform designed for both **companies** and **individuals**. It combines **speech-to-text (STT)**, **text-to-speech (TTS)**, and **LLM-based evaluation** to provide realistic, automated interview experiences.
+**InterviewAI** is an AI-powered, voice-interactive interview platform designed for both **companies** and **individuals**. It combines **speech-to-text (STT)**, **text-to-speech (TTS)**, and **LLM-based evaluation** to provide realistic, automated interview experiences. 
 
 ---
 
